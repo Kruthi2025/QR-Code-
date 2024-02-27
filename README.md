@@ -1,4 +1,5 @@
 QR Code generator
+
 This is the Python Mini Project which is used for generating QR Code based on the URL given by the user.
 
 How to use the code:
